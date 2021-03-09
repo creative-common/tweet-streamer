@@ -9,7 +9,7 @@ from mytapp import TwitterGrabber
 
 if __name__ == '__main__':
  
-  keyword8 = "COVID19"  
+  keyword8 = "YHOO"  
 
   try:
      
