@@ -9,11 +9,10 @@ from mytapp import TwitterGrabber
 
 if __name__ == '__main__':
  
-  keyword8 = "YHOO"  
+  keyword8 = "COVID19"  
 
   try:
      
-
       #keyword-8 Grabber
      keyword8Grabber = TwitterGrabber(keyword8)  
      keyword8Grabber.streamTweets()
